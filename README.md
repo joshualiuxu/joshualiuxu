@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshua liuxu
 - 👀 I’m interested in R code, microbial ecology, and ecological networks
 - 🌱 I’m currently working in institute of soil science, Chinese academy of sciences
-- 💞️ I’m looking to collaborate on distribution and prediction modeling
+- 💞️ I’m looking to collaborate on distribution and prediction modelling
 - 📫 How to reach me @@ email: xliu@issas.ac.cn
 
 <!---
